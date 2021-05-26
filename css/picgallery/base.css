@@ -203,6 +203,7 @@ main {
 	transition: all 0.3s;
 }
 
+
 .grid__item:hover .box__title-inner::before {
 	height: 100%;
 	width: 100%;
