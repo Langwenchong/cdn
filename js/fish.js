@@ -1,5 +1,4 @@
-<script>
-// ??????
+//养鱼专用js
 var RENDERER = {
 	POINT_INTERVAL : 10,
 	FISH_COUNT : 2,
